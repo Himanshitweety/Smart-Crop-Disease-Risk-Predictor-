@@ -1,2 +1,1 @@
-# Smart-Crop-Disease-Risk-Predictor-
-IoT monitor using DHT11 and moisture sensors to run a rule-based fungal risk algorithm. Features a relay-driven automated pump, 0.96" OLED dashboard, and &lt;2s alert latency. Syncs 7-day environmental trends to ThingSpeak via MQTT with a non-blocking 10s refresh rate.
+<img width="1440" height="1950" alt="image" src="https://github.com/user-attachments/assets/6e75dba2-f528-4606-88c6-53b4ddf92fc7" />
